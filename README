@@ -1,3 +1,7 @@
+MOVED: The code for p11-kit has moved:
+
+https://github.com/p11-glue/p11-kit
+
 P11-KIT
 
 Provides a way to load and enumerate PKCS#11 modules. Provides a standard

@@ -1,4 +1,9 @@
-HACKING p11-kit
+MOVED: The code for p11-kit has moved:
+
+https://github.com/p11-glue/p11-kit
+
+
+HACKING on p11-kit
 
  * Documentation on developing p11-kit:
    http://p11-glue.freedesktop.org/doc/p11-kit/devel.html
